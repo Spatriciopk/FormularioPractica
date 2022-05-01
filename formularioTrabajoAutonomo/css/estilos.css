@@ -1,0 +1,34 @@
+
+body{
+    margin: 2%;
+    background-color: #c3c2ca ;
+}
+
+div h1,h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div h1{
+    font-weight: bolder;
+    font-style: italic;
+}
+
+div h2{
+    font-weight: lighter;
+    font-style: inherit;
+}
+
+table {
+    justify-content: center;
+}
+.form_cont{
+    display: flex;
+    justify-content: center;
+    
+}
+#respuesta{
+    margin: 1%;
+    text-align: center;
+    
+}
